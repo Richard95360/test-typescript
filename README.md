@@ -1,1 +1,1 @@
-<h1>Test Gen&rics en TypeScript</h1>
+<h1>Test Generics en TypeScript</h1>
